@@ -1,6 +1,6 @@
 # Samtok App
 
-Samtok App est un projet original, étudié et réalisé qu'avec des outils gratuits. L'objectif est de montrer que la mise en place d'un projet web ne repose pas uniquement que sur des moyens financiers, mais est accessible à tous !
+Samtok App est un projet original, étudié et réalisé qu'*avec des outils gratuits*. L'objectif est de montrer que la mise en place d'un projet web ne repose pas uniquement que sur des moyens financiers, mais est accessible à tous !
 
 ## Objectifs
 Le but est simple :
