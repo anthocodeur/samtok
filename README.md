@@ -7,13 +7,15 @@ Le but est simple :
 **Créer une application de gestion de tâches** au quotidien, permettant aux passionnés du web, étudiants, indépendants, mais également aux équipes de gérer leurs journées grâce à un outil d'optimisation tout-en-un (AiO).
 
 ## Couleurs :
-/* Extended Array */
 <pre><code>
 [
   {
-    "name":"Black Olive","hex":"484538",
-    "rgb":[72,69,56],"cmyk":[0,4,22,72],
-    "hsb":[49,22,28],"hsl":[49,13,25],
+    "name":"Black Olive",
+    "hex":"484538",
+    "rgb":[72,69,56],
+    "cmyk":[0,4,22,72],
+    "hsb":[49,22,28],
+    "hsl":[49,13,25],
     "lab":[29,-1,8]
   },
   {
