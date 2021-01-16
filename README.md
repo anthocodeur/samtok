@@ -8,6 +8,7 @@ Le but est simple :
 
 ## Couleurs :
 /* Extended Array */
+<pre><code>
 [
   {
     "name":"Black Olive","hex":"484538",
@@ -52,6 +53,7 @@ Le but est simple :
     "lab":[88,4,-11]
   }
 ]
+</pre></code>
 
 ## Liens
 ### DISCORD : https://discord.gg/GkbzKp3cTN
