@@ -5,3 +5,8 @@ Samtok App est un projet original, étudié et réalisé qu'avec des outils grat
 ## Objectifs
 Le but est simple :
 Créer une application de gestion de tâches au quotidien, permettant aux passionnés du web, étudiants, indépendants, mais également aux équipes de gérer leurs journées grâce à un outil d'optimisation tout-en-un (AiO).
+
+
+### Liens
+#### DISCORD
+https://discord.gg/GkbzKp3cTN
