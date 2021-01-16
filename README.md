@@ -60,5 +60,7 @@ Le but est simple :
 ## Liens
 ### DISCORD : https://discord.gg/GkbzKp3cTN
 ### SLACK : https://samtokapp.slack.com
+
+### LOGO PROVISOIRE : https://designer.gravit.io/?token=9sI0hiTuLXlPrCAZx65FN2wMH9FOwff6
 ### FIGMA DESIGN : https://www.figma.com/file/537fw9O8ctHxqHygVq81AM/Main-Design
 
