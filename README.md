@@ -8,5 +8,4 @@ Créer une application de gestion de tâches au quotidien, permettant aux passio
 
 
 ### Liens
-#### DISCORD
-https://discord.gg/GkbzKp3cTN
+#### DISCORD : https://discord.gg/GkbzKp3cTN
