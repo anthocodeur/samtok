@@ -9,3 +9,4 @@ Le but est simple :
 
 ## Liens
 ### DISCORD : https://discord.gg/GkbzKp3cTN
+### FIGMA DESIGN : https://www.figma.com/file/537fw9O8ctHxqHygVq81AM/Main-Design
